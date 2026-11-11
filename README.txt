@@ -1,0 +1,1 @@
+Optional real photos: add p1.jpg ... p12.jpg (800x800, <120KB each, compressed JPG/WebP-as-jpg). Then set PHOTOS = true at the top of art() in app.js. Missing files fall back to the built-in renders automatically.
